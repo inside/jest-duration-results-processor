@@ -1,0 +1,31 @@
+{
+  "name": "jest-duration-results-processor",
+  "version": "1.0.0",
+  "description": "A jest results processor showing test files that exceed a duration threshold",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inside/jest-duration-results-processor.git"
+  },
+  "keywords": [
+    "jest",
+    "duration",
+    "results",
+    "processor"
+  ],
+  "author": "Yann Thomas-Gérard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inside/jest-duration-results-processor/issues"
+  },
+  "homepage": "https://github.com/inside/jest-duration-results-processor#readme",
+  "engines": {
+    "node": ">=6.14.12"
+  }
+}
